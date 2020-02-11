@@ -1,7 +1,9 @@
 package com.lzy.lock;
 
 import java.util.concurrent.TimeUnit;
-
+/**
+ * 两个线程产生死锁问题，程序启动后无法停止，两个线程均处于阻塞状态
+ * */
 public class DeadLock {
 
     private Object lock1 = new Object();
