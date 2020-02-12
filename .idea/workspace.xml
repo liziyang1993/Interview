@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28f844a5-a11c-49b8-afd1-6ab5af61d51d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lzy/util/DataUtil.java" afterPath="$PROJECT_DIR$/src/com/lzy/util/DataUtil.java" />
-    </list>
+    <list default="true" id="28f844a5-a11c-49b8-afd1-6ab5af61d51d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,8 +66,8 @@
       <file leaf-file-name="Top100.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/lzy/top100/Top100.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-230">
-              <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+            <state relative-caret-position="780">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#795#796#0" expanded="true" />
@@ -469,7 +466,7 @@
       <updated>1581391276807</updated>
       <workItem from="1581391283116" duration="4997000" />
       <workItem from="1581396583209" duration="6778000" />
-      <workItem from="1581475777165" duration="3843000" />
+      <workItem from="1581475777165" duration="4125000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <created>1581396152470</created>
@@ -485,11 +482,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581397426654</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modify">
+      <created>1581479652435</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581479652435</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15618000" />
+    <option name="totallyTimeSpent" value="15900000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -776,8 +780,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lzy/top100/Top100.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-230">
-          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        <state relative-caret-position="780">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#795#796#0" expanded="true" />
