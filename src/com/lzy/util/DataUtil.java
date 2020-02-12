@@ -13,8 +13,8 @@ public class DataUtil {
         return nums;
     }
 
-    public static int[] generateRandomArray(int number, int max) {
-        int[] nums = new int[number];
+    public static Integer[] generateRandomArray(int number, int max) {
+        Integer[] nums = new Integer[number];
         Random random = new Random();
         for (int i = 0; i < number; i++) {
             nums[i] = random.nextInt(max);
@@ -22,10 +22,5 @@ public class DataUtil {
         return nums;
     }
 
-    public static void main(String[] args) {
-        int nums[] = generateRandomArray(100, 100);
-        for (int i : nums) {
-            System.out.print(i + ",");
-        }
-    }
+
 }
